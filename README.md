@@ -4,6 +4,8 @@
   <img src="screenshot.png">
 </h1>
 
+> Trilha Explorer
+
 Projeto construído durante o evento Next Level Week da Rocketseat.
 
 ## 🛠️ Techs
