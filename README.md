@@ -4,7 +4,7 @@
   <img src="screenshot.png">
 </h1>
 
-Projeto construído do evento Next Level Week da Rcoketseat.
+Projeto construído durante o evento Next Level Week da Rocketseat.
 
 ## 🛠️ Techs
 
