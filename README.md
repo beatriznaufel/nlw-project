@@ -4,7 +4,10 @@
   <img src="screenshot.png">
 </h1>
 
+Projeto construído do evento Next Level Week da Rcoketseat.
+
 # Techs
 
-- [HTML](https://www.w3schools.com/html/)
-- [CSS](https://www.w3schools.com/css/)
+- HTML
+- CSS
+- Git e Github
