@@ -4,8 +4,6 @@
   <img src="screenshot.png">
 </h1>
 
-# About the project
-
 # Techs
 
 - [HTML](https://www.w3schools.com/html/)
