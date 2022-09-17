@@ -6,7 +6,7 @@
 
 Projeto construído do evento Next Level Week da Rcoketseat.
 
-# Techs
+## 🛠️ Techs
 
 - HTML
 - CSS
