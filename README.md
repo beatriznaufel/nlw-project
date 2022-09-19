@@ -1,4 +1,4 @@
-<h1 align="center">NLW eSports Project 🚀💜</h1>
+<h1 align="center">NLW eSports Project 🚀💜🎮</h1>
 
 <h1 align="center">
   <img src="screenshot.png">
